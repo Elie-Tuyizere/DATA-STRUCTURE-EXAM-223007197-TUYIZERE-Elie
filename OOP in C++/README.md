@@ -1,4 +1,4 @@
-## Group members
+## Group 9 members in OOP
 1. Sindayigaya samuel 223004485
 2. Rebecca Tuyikunde 223010994
 3. NKUNDIMANA VITAL   223002996
