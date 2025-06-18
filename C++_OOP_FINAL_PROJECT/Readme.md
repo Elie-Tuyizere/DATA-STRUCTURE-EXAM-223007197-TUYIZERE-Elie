@@ -1,5 +1,5 @@
-### My project question 
-# Question 104
+# My project question 
+## Question 104
 Insurance Premium Manager
 Description: Calculate insurance premiums using a dynamic bracket array; multiple 
 premium managers share a base interface.
@@ -21,5 +21,5 @@ calling managers[i]->calculate(applicant) dispatches correctly.
 
 • Implement addBracket(Bracket) and removeBracket(int index) by 
 resizing Bracket*.
-## Screenshot of output of my project
+# Screenshot of output of my project
 ![image](https://github.com/user-attachments/assets/7331dc7b-b8f3-4270-a810-8b83dd3e5ac1)
